@@ -1,0 +1,6 @@
+C:\Users\K\AppData\Local\Temporary Projects\cw4p02\bin\Debug\cw4p02.exe
+C:\Users\K\AppData\Local\Temporary Projects\cw4p02\bin\Debug\cw4p02.pdb
+C:\Users\K\AppData\Local\Temporary Projects\cw4p02\obj\x86\Debug\cw4p02.exe
+C:\Users\K\AppData\Local\Temporary Projects\cw4p02\obj\x86\Debug\cw4p02.pdb
+C:\Users\K\Desktop\zaawansowane programowanie obiektowe\Cwiczenia4\cw4.2\cw4p02\cw4p02\obj\x86\Debug\cw4p02.exe
+C:\Users\K\Desktop\zaawansowane programowanie obiektowe\Cwiczenia4\cw4.2\cw4p02\cw4p02\obj\x86\Debug\cw4p02.pdb
